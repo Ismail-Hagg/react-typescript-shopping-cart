@@ -1,3 +1,3 @@
 export function Home (){
-    return <h1>thid id Home</h1>
+    return <h1>thid is Home</h1>
 }
